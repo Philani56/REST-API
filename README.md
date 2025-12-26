@@ -28,10 +28,10 @@ It was created as a refresher on RESTful API fundamentals and backend developmen
 
 ## 📂 Project Structure
 -my-api/
--│
--├─ index.js
--├─ package.json
--└─ requests.http
+-
+- index.js
+- package.json
+- requests.http
 
 ---
 
