@@ -27,4 +27,22 @@ It was created as a refresher on RESTful API fundamentals and backend developmen
 ---
 
 ## 📂 Project Structure
+-my-api/
+-│
+-├─ index.js
+-├─ package.json
+-└─ requests.http
 
+---
+
+## ▶️ Getting Started
+
+### 1. Install dependencies
+```bash
+npm install
+```
+
+### 2. Start the server
+```bash
+node index.js
+```
